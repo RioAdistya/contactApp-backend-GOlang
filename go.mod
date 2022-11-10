@@ -4,7 +4,10 @@ go 1.19
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
+	github.com/go-playground/locales v0.14.0 // indirect
+	github.com/go-playground/universal-translator v0.18.0 // indirect
 	github.com/gofiber/fiber/v2 v2.39.0 // indirect
+	github.com/iancoleman/strcase v0.1.3 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
 	github.com/jackc/pgconn v1.13.0 // indirect
 	github.com/jackc/pgio v1.0.0 // indirect
@@ -17,9 +20,12 @@ require (
 	github.com/jinzhu/now v1.1.4 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/klauspost/compress v1.15.12 // indirect
+	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/morkid/gocache v1.0.0 // indirect
+	github.com/morkid/paginate v1.1.4 // indirect
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.41.0 // indirect
@@ -27,6 +33,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
 	golang.org/x/sys v0.2.0 // indirect
 	golang.org/x/text v0.3.7 // indirect
+	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gorm.io/driver/postgres v1.4.5 // indirect
 	gorm.io/gorm v1.24.1 // indirect
 )
